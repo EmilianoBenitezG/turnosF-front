@@ -1,0 +1,7 @@
+.bootstrap-wrapper {
+    background-image: url('/../assets/fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 94vh; /* Asegúrate de que cubra toda la altura de la página */
+  }
